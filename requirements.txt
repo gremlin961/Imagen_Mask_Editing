@@ -1,1 +1,3 @@
 pillow
+google-auth
+requests
